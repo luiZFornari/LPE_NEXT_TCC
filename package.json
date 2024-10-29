@@ -1,0 +1,22 @@
+{
+  "name": "eshopnextlpe",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "bootstrap-icons": "^1.11.3",
+    "lucide-react": "^0.452.0",
+    "next": "14.2.11",
+    "next-auth": "^4.24.8",
+    "pg": "^8.13.0",
+    "react": "^18",
+    "react-bootstrap": "^2.10.5",
+    "react-dom": "^18"
+  }
+}
